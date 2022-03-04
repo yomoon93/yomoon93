@@ -35,12 +35,14 @@ Created a code that intergrated all these sensors so they can work in tandum to 
 
 Combination of a computer processor, computer memory, and input/output peripheral devices. Embedded microcontroller hardware connected to several environmental sensors to automate tasks.
 
-Blogs 💬
-Medium
+
 
 Computer Engineer
+
 Learning Backend Node, SpringBoot
+
 Machine learning in Python
+
 Transitioning Career to Full Stack
 <!--
 **yomoon93/yomoon93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
