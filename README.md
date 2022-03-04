@@ -27,7 +27,7 @@ Random Code excersies
 
 I have a lot of code that i did for practice, and to show i understand it i wrote comments
 
-[Also have Embedded Systems Projects] ⚡
+Also have Embedded Systems Projects ⚡
 
 
 Self Sufficient plant
