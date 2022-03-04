@@ -18,7 +18,7 @@ I created a website for anyone that wants to see a website that shows all my ski
 Random Code excersies 
 I have a lot of code that i did for practice, and to show i understand it i wrote comments
 
-[Also have Embedded Systems Projects ⚡]
+[Also have Embedded Systems Projects] ⚡
 Self Sufficient plant
 Created a code that intergrated all these sensors so they can work in tandum to keep the soil soaked when dried!
 Combination of a computer processor, computer memory, and input/output peripheral devices. Embedded microcontroller hardware connected to several environmental sensors to automate tasks.
