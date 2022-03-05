@@ -13,7 +13,7 @@ Using an api, I made a clone of the zillow website using two api one for the inf
 
 Using what i had learned and the web i was able to recreate the ping pong game and present it with different logic so it was fun to play but also showed that i understood how the code worked.
 
-[Created a FullStack Website using React and SpringBoot](https://github.com/yomoon93/MOD1Project)
+[Created a FullStack Website using React and SpringBoot](https://github.com/yomoon93/mod3)
 
 
 Using everything i learned i created a website that collected information from the contact form. 
