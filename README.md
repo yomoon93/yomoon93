@@ -2,7 +2,8 @@
 Hi there, I'm Kevin👋
 
 Software Engineer Projects 🔭
-Also have Embedded System Projects ⚡
+
+Embedded System Projects ⚡
 
 
 Self Sufficient plant
