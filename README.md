@@ -2,6 +2,18 @@
 Hi there, I'm Kevin👋
 
 Software Engineer Projects 🔭
+Also have Embedded Systems Projects ⚡
+
+
+Self Sufficient plant
+Created a code that intergrated all these sensors so they can work in tandum to keep the soil soaked when dried!
+
+Gesture Controlled Video Player
+
+Created a code that used a ultra-sonic sensor that controlled the keyboard bindings for play/pause and many other binds that i would create
+
+Combination of a computer processor, computer memory, and input/output peripheral devices. Embedded microcontroller hardware connected to several environmental sensors to automate tasks.
+
 
 [A Mock of Zillow Website(MoonDoc Zillow Project 2)](https://github.com/yomoon93/mod2)
 
@@ -26,16 +38,6 @@ I created a website for anyone that wants to see a website that shows all my ski
 Random Code excersies 
 
 I have a lot of code that i did for practice, and to show i understand it i wrote comments
-
-Also have Embedded Systems Projects ⚡
-
-
-Self Sufficient plant
-Created a code that intergrated all these sensors so they can work in tandum to keep the soil soaked when dried!
-
-Combination of a computer processor, computer memory, and input/output peripheral devices. Embedded microcontroller hardware connected to several environmental sensors to automate tasks.
-
-
 
 Computer Engineer
 
